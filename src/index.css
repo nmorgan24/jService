@@ -11,3 +11,46 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+
+div.App{
+  text-align: center;
+  background-color: plum;
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: 'Sorts Mill Goudy', serif;
+}
+
+h1{
+  color: white;
+}
+
+h2{
+  color: greenyellow;
+}
+
+h3{
+  color: white;
+}
+
+.Score {
+  background-color: purple;
+  padding: 12px;
+  border-radius: 5px;
+  margin-top: 20px;
+}
+
+button:hover {
+  background-color: tan;
+}
+
+button {
+  background-color: teal;
+  color: white;
+  font-size: 20px;
+  padding: 10px 20px;
+  margin-top: 20px;
+  margin-left: 10px;
+  border-radius: 5px;
+  cursor: pointer;
+}
